@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94795245621",
+    "firebase_url": "https://buddybuddy-995d4.firebaseio.com",
+    "project_id": "buddybuddy-995d4",
+    "storage_bucket": "buddybuddy-995d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94795245621:android:0a2a401f18c9afcccfa97c",
+        "android_client_info": {
+          "package_name": "com.example.buddybuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94795245621-f0prul16tv7hei77f4orujpo1o9ql5tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buddybuddy",
+            "certificate_hash": "fb745d3abaae84b911a877f169e5bc973f29c893"
+          }
+        },
+        {
+          "client_id": "94795245621-v84qeldb02ka8svjsnproblep5t1fpae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeSaT5HiMq3wK4mPJ4S3OAmniY2QY0QJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94795245621-v84qeldb02ka8svjsnproblep5t1fpae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
